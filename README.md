@@ -8,7 +8,7 @@
 
 ![Tests](https://github.com/carsonfarmer/libp2p-bundle/workflows/Test/badge.svg)
 
-> Basic libp2p bundle with settings that match js-ipfs.
+> Basic libp2p bundle with settings that match js-ipfs
 
 # Table of Contents
 
